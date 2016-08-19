@@ -1,1 +1,1 @@
-worker: npm send-file
+worker: npm run send-file
